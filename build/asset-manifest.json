@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GoofyGate/static/css/main.625d63ab.chunk.css",
+    "main.js": "/GoofyGate/static/js/main.3ef96b7b.chunk.js",
+    "main.js.map": "/GoofyGate/static/js/main.3ef96b7b.chunk.js.map",
+    "runtime-main.js": "/GoofyGate/static/js/runtime-main.f3e7e794.js",
+    "runtime-main.js.map": "/GoofyGate/static/js/runtime-main.f3e7e794.js.map",
+    "static/js/2.a9a96578.chunk.js": "/GoofyGate/static/js/2.a9a96578.chunk.js",
+    "static/js/2.a9a96578.chunk.js.map": "/GoofyGate/static/js/2.a9a96578.chunk.js.map",
+    "index.html": "/GoofyGate/index.html",
+    "precache-manifest.153b1e18a17ffe313de9e44b897079ca.js": "/GoofyGate/precache-manifest.153b1e18a17ffe313de9e44b897079ca.js",
+    "service-worker.js": "/GoofyGate/service-worker.js",
+    "static/css/main.625d63ab.chunk.css.map": "/GoofyGate/static/css/main.625d63ab.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3e7e794.js",
+    "static/js/2.a9a96578.chunk.js",
+    "static/css/main.625d63ab.chunk.css",
+    "static/js/main.3ef96b7b.chunk.js"
+  ]
+}
