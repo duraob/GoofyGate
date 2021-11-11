@@ -2,7 +2,7 @@
 _buildspace - web3 Read/Write Ethereum Blockchain Project  
   
 -- DEMO --  
-![GoofyGate Live Demo](/Demo.gif)  
+![GoofyGate Live Demo](/Demo-GoofyGate.gif)  
   
 **WARNING -- DO NOT SEND LIVE FUNDS TO THIS ADDRESS -- SITE USES ETHEREUM RINKEBY TESTNET CHAIN **  
 [Gifurry](https://jetgoof.github.io/GoofyGate/)  
