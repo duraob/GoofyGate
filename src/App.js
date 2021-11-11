@@ -61,6 +61,7 @@ export default function App() {
 
       console.log('Connected to account: ', accounts[0]);
       setCurrentAccount(accounts[0]);
+      getAllGoofs();
     } catch (err) {
       console.log('Could not connect to any account.');
     }
